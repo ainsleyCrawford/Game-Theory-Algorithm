@@ -1,5 +1,5 @@
 # Game_Theory_Algorithm
-Game theory uses mathematical models to predict and understand interactions between rational individuals.
+Game theory uses mathematical models to predict and understand interactions between rational individuals. It is often used as a way of understanding the world around us, notably in the social sciences and geopolitics. Proponents of game theory advocate its use in designing social and diplomatic policies that induce actors to select the desired option.
 ## The Prisoner's Dilemma
 The prisoner's dilemma—perhaps the most famous example of game theory—is a symmetric, non-zero-sum game which explores whether it is in someone's interest to cooperate or betray. In one version of the prisoner's dilemma two partners-in-crime must decide to cooperate or defect without knowing the choice their codefendant will make. Cooperation from both results in a year sentence each. Double defection results in 2 years each. However, if only one cooperates he walks free whilst his partner serves 3 years. Each suspect knows that defecting means less time in prison whether their partner cooperates or defects: from 3 to 1 should they cooperate; 2 to 0 should they betray. For this reason, each suspect is likely to defect, resulting in 2 years, rather than cooperate, resulting in 1.
 
